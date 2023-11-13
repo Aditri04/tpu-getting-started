@@ -5,3 +5,4 @@ Steps to execute:
 2. Switch on the TPU accelerator
 3. Run all the cells
    
+Link to blog: https://chaudhariaditri.wixsite.com/my-profile/blogs/petal-to-metal
